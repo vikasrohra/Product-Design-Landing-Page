@@ -24,6 +24,6 @@ Hi, I'm `Vikas Rohra`, a web developer living in Mumbai, India.
 <br />
 
 ## Live link
- [Hosting Landing Page](https://hosting-home-page.netlify.app/)
+ [Product Design Landing Page](https://product-designer-landing-page.netlify.app/)
  
  [Portfolio](https://vikasrohra.com/)
